@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @nesfe
-- 👀 I’m interested in C/C++, Rust;
+- 👀 I’m interested in C/C++, Rust, Verilog, RTL Design, Electronics
 - 🌱 I’m currently learning ↑
 - 💞️ I’m looking to collaborate on ⇆
 - 📫 How to reach me (((
