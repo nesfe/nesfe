@@ -15,7 +15,9 @@
 <p align="center">
   Research-minded engineer working across electronics, positioning, networking, and software that has to survive contact with reality.
   <br />
-  Not a classical programmer; I use AI as a practical exoskeleton to turn technical constraints, architecture, and diagnostics into working systems.
+  Not a classical programmer; I use AI as my main implementation tool to turn technical constraints, architecture, and diagnostics into working systems.
+  <br />
+  Curious about almost everything, and yes, I jump between projects a lot.
 </p>
 
 <table>
@@ -57,12 +59,6 @@
     </td>
   </tr>
 </table>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/real%20hardware%20%3E%20pitch%20decks-111827?style=flat-square&labelColor=111827&color=334155" alt="real hardware over pitch decks" />
-  <img src="https://img.shields.io/badge/debugging%20style-instrument%20everything-111827?style=flat-square&labelColor=111827&color=7c3aed" alt="instrument everything" />
-  <img src="https://img.shields.io/badge/preferred%20proof-working%20system-111827?style=flat-square&labelColor=111827&color=0ea5e9" alt="working system" />
-</p>
 
 ## Selected Builds
 
