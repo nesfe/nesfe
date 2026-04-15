@@ -1,10 +1,25 @@
-- 👋 Hi, I’m @nesfe
-- 👀 I’m interested in C/C++, Rust, Verilog, RTL Design, FPGA, Electronics
-- 🌱 I’m currently learning ↑
-- 💞️ I’m looking to collaborate on ⇆
-- 📫 How to reach me (((
+<h1 align="center">nesfe</h1>
 
-<!---
-nesfe/nesfe is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p align="center">
+  embedded systems • low-level software • digital logic
+</p>
+
+<p align="center">
+  I build things close to the hardware with
+  <code>C</code>, <code>C++</code>, <code>Rust</code>, and <code>Verilog</code>.
+</p>
+
+```text
+focus
+├─ embedded tooling
+├─ FPGA / RTL experiments
+└─ electronics-driven software
+```
+
+<p align="center">
+  clean interfaces, predictable behavior, real devices
+</p>
+
+<p align="center">
+  <a href="https://github.com/nesfe?tab=repositories">repositories</a>
+</p>
