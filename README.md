@@ -8,75 +8,46 @@
 <p align="center">
   <img src="https://img.shields.io/badge/research-111827?style=for-the-badge&labelColor=111827&color=dc2626" alt="research" />
   <img src="https://img.shields.io/badge/electronics-111827?style=for-the-badge&labelColor=111827&color=f59e0b" alt="electronics" />
-  <img src="https://img.shields.io/badge/practical%20systems-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="practical systems" />
-  <img src="https://img.shields.io/badge/ai--assisted%20building-111827?style=for-the-badge&labelColor=111827&color=334155" alt="AI-assisted building" />
+  <img src="https://img.shields.io/badge/systems-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="systems" />
+  <img src="https://img.shields.io/badge/ai--assisted%20development-111827?style=for-the-badge&labelColor=111827&color=334155" alt="AI-assisted development" />
 </p>
 
 <p align="center">
   Research-minded engineer working across electronics, positioning, networking, and software that has to survive contact with reality.
   <br />
-  Not a classical programmer; I use AI as my main implementation tool to turn technical constraints, architecture, and diagnostics into working systems.
-  <br />
-  Curious about almost everything, and yes, I jump between projects a lot.
+  Not a classical programmer, I use AI as my main implementation tool to turn technical constraints, architecture, and diagnostics into working systems.
 </p>
 
-<table>
-  <tr>
-    <td width="52%" valign="top">
-      <img src="https://img.shields.io/badge/LAB%20STATUS-online-111827?style=flat-square&labelColor=111827&color=22c55e" alt="lab status" />
-      <pre lang="text">╭─ /dev/nesfe
-│ role      electronic engineer
-│ focus     research, engineering, practical systems
-│ build     AI-assisted tools that must work outside the chat
-│ stack     hardware, experiments, prompts, logs, measurements
-│ habit     measure first, theorize second
-╰─ note      if it worked on the first try, check again</pre>
-    </td>
-    <td width="48%" valign="top">
-      <img src="https://img.shields.io/badge/CURRENT%20LOOP-active-111827?style=flat-square&labelColor=111827&color=f59e0b" alt="current loop" />
-      <br />
-      <br />
-      <b>What I usually work on</b>
-      <br />
-      UWB and navigation research
-      <br />
-      electronics and hardware-facing tooling
-      <br />
-      reproducible systems and infrastructure
-      <br />
-      software built through AI-assisted workflows
-      <br />
-      <br />
-      <b>What the desk looks like</b>
-      <br />
-      terminal windows
-      <br />
-      USB adapters
-      <br />
-      one suspicious cable
-      <br />
-      one more test before sleep
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://img.shields.io/badge/LAB%20STATUS-online-111827?style=flat-square&labelColor=111827&color=22c55e" alt="lab status" />
+</p>
 
-## Selected Projects
+<p align="center">
+  <code>UWB and navigation research</code> ·
+  <code>electronics and hardware tooling</code> ·
+  <code>reproducible infrastructure</code> ·
+  <code>AI-assisted software</code>
+</p>
 
-| Project | Area | Note |
-| --- | --- | --- |
-| [`YPH-App`](https://github.com/nesfe/YPH-App) | PWA / product | bilingual hymnbook with chords, offline mode, and admin panel |
-| [`ClearXRay`](https://github.com/nesfe/ClearXRay) | networking | documented and reproducible Xray REALITY setup |
-| [`VPN2double`](https://github.com/nesfe/VPN2double) | infrastructure | chained RU → NL VPN architecture with practical deployment scripts |
-| [`V2RayTun`](https://github.com/nesfe/V2RayTun) | tooling | one-command Xray Reality bootstrap for a real client workflow |
+<p align="center">
+  <code>measure first</code> ·
+  <code>debug the real failure mode</code> ·
+  <code>ship what actually works</code>
+</p>
 
-## Project Flavor
+<p align="center">
+  <b>Selected Projects</b>
+</p>
 
-| Area | What shows up here |
-| --- | --- |
-| `electronics / drones` | control tooling, hardware-facing utilities, operator workflows |
-| `uwb / positioning` | experiments, measurement-heavy setups, infrastructure around localization |
-| `networking` | reproducible deployment scripts, documented configs, clean bootstrap repos |
-| `software` | internal tools, dashboards, CLIs, and backend pieces that support the real system |
+<p align="center">
+  <a href="https://github.com/nesfe/YPH-App"><b>YPH-App</b></a> · bilingual hymnbook PWA with chords, offline mode, and admin panel
+  <br />
+  <a href="https://github.com/nesfe/ClearXRay"><b>ClearXRay</b></a> · documented and reproducible Xray REALITY setup
+  <br />
+  <a href="https://github.com/nesfe/VPN2double"><b>VPN2double</b></a> · chained RU → NL VPN architecture with practical deployment scripts
+  <br />
+  <a href="https://github.com/nesfe/V2RayTun"><b>V2RayTun</b></a> · one-command Xray Reality bootstrap for a real client workflow
+</p>
 
 <p align="center">
   <a href="https://github.com/nesfe?tab=repositories">repositories</a> ·
