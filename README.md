@@ -9,7 +9,7 @@
   <img src="https://img.shields.io/badge/electronics-111827?style=for-the-badge&labelColor=111827&color=dc2626" alt="electronics" />
   <img src="https://img.shields.io/badge/drones-111827?style=for-the-badge&labelColor=111827&color=f59e0b" alt="drones" />
   <img src="https://img.shields.io/badge/uwb-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="uwb" />
-  <img src="https://img.shields.io/badge/building%20stuff-111827?style=for-the-badge&labelColor=111827&color=2563eb" alt="building stuff" />
+  <img src="https://img.shields.io/badge/building%20stuff-111827?style=for-the-badge&labelColor=111827&color=475569" alt="building stuff" />
 </p>
 
 <table>
