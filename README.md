@@ -1,60 +1,55 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,28:1e293b,58:dc2626,82:f59e0b,100:facc15&text=nesfe&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=36&desc=electronics%20%7C%20drones%20%7C%20uwb%20%7C%20vibecoder%20by%20necessity&descAlignY=58"
+    src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:0b1220,28:111827,58:1f2937,78:b45309,100:f59e0b&text=nesfe&fontColor=ffffff&fontSize=62&fontAlignY=34&desc=electronics%20lab%20dashboard&descAlignY=56&descSize=18"
     alt="nesfe header"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/electronics-111827?style=for-the-badge&labelColor=111827&color=dc2626" alt="electronics" />
-  <img src="https://img.shields.io/badge/drones-111827?style=for-the-badge&labelColor=111827&color=f59e0b" alt="drones" />
-  <img src="https://img.shields.io/badge/uwb-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="uwb" />
-  <img src="https://img.shields.io/badge/building%20stuff-111827?style=for-the-badge&labelColor=111827&color=2563eb" alt="building stuff" />
+  <img src="https://img.shields.io/badge/electronics-0f172a?style=for-the-badge&labelColor=111827&color=f97316" alt="electronics" />
+  <img src="https://img.shields.io/badge/drones-0f172a?style=for-the-badge&labelColor=111827&color=eab308" alt="drones" />
+  <img src="https://img.shields.io/badge/uwb-0f172a?style=for-the-badge&labelColor=111827&color=38bdf8" alt="uwb" />
+  <img src="https://img.shields.io/badge/vibecoder%20by%20necessity-0f172a?style=for-the-badge&labelColor=111827&color=22c55e" alt="vibecoder by necessity" />
 </p>
 
 <table>
   <tr>
-    <td width="58%" valign="top">
-      <pre lang="text">┌──(nesfe@github)-[~/lab]
-└─$ whoami
-electronic engineer
-
-┌──(nesfe@github)-[~/lab]
-└─$ ls current_focus/
-drones  uwb  hardware-software experiments
-
-┌──(nesfe@github)-[~/lab]
-└─$ cat loop.txt
-test
-break
-fix
-repeat</pre>
-
+    <td width="54%" valign="top">
+      <img src="https://img.shields.io/badge/LAB%20STATUS-online-111827?style=flat-square&labelColor=111827&color=22c55e" alt="lab status" />
+      <pre lang="text">╭─ dashboard
+│ role      electronic engineer
+│ focus     drones / uwb / odd hardware+software
+│ mode      learn whatever the project demands
+│ status    usually debugging something real
+╰─ note      if it works first try, be suspicious</pre>
   </td>
-  <td width="42%" valign="top">
-      <b>now</b>
+  <td width="46%" valign="top">
+      <img src="https://img.shields.io/badge/CURRENT%20LOOP-active-111827?style=flat-square&labelColor=111827&color=f59e0b" alt="current loop" />
       <br />
-      building small weird things
       <br />
-      learning whatever the project forces me to learn
+      <b>bench</b>
       <br />
-      trying to make real hardware behave
+      drones
+      <br />
+      uwb
+      <br />
+      small experiments that slowly become projects
       <br />
       <br />
       <b>vibe</b>
       <br />
       terminal windows
       <br />
-      lab bench chaos
+      serial logs
       <br />
-      one more test before sleep
-
+      one more measurement before sleep
   </td>
   </tr>
 </table>
 
 <p align="center">
-  <b>low noise, real hardware, questionable firmware decisions</b>
+  <img src="https://img.shields.io/badge/real%20hardware%20%3E%20pretty%20slides-111827?style=flat-square&labelColor=111827&color=334155" alt="real hardware over slides" />
+  <img src="https://img.shields.io/badge/firmware%20confidence-variable-111827?style=flat-square&labelColor=111827&color=7c3aed" alt="firmware confidence variable" />
 </p>
 
 <p align="center">
