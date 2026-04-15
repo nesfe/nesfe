@@ -1,25 +1,23 @@
 <h1 align="center">nesfe</h1>
 
 <p align="center">
-  embedded systems • low-level software • digital logic
-</p>
-
-<p align="center">
-  I build things close to the hardware with
-  <code>C</code>, <code>C++</code>, <code>Rust</code>, and <code>Verilog</code>.
+  electronics • drones • uwb • random things that somehow start working
 </p>
 
 ```text
-focus
-├─ embedded tooling
-├─ FPGA / RTL experiments
-└─ electronics-driven software
+> whoami
+electronic engineer
+vibecoder by necessity
+
+> current_focus
+- drones
+- uwb
+- small experiments around hardware and software
+
+> status
+usually building, testing, breaking, fixing
 ```
 
 <p align="center">
-  clean interfaces, predictable behavior, real devices
-</p>
-
-<p align="center">
-  <a href="https://github.com/nesfe?tab=repositories">repositories</a>
+  <a href="https://github.com/nesfe?tab=repositories">repos</a>
 </p>
