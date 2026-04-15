@@ -78,21 +78,6 @@
 | `networking` | reproducible deployment scripts, documented configs, clean bootstrap repos |
 | `software` | internal tools, dashboards, CLIs, and backend pieces that support the real system |
 
-## GitHub Pulse
-
-<p align="center">
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api?username=nesfe&show_icons=true&rank_icon=percentile&include_all_commits=true&theme=transparent&bg_color=00000000&title_color=f59e0b&text_color=cbd5e1&icon_color=dc2626&border_color=334155"
-    alt="GitHub stats"
-  />
-  <img
-    height="170"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=nesfe&layout=compact&langs_count=8&theme=transparent&bg_color=00000000&title_color=f59e0b&text_color=cbd5e1&border_color=334155"
-    alt="Top languages"
-  />
-</p>
-
 <p align="center">
   <a href="https://github.com/nesfe?tab=repositories">repositories</a> ·
   <a href="https://github.com/nesfe?tab=stars">stars</a> ·
