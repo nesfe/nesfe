@@ -1,15 +1,15 @@
 <p align="center">
   <img
-    src="https://capsule-render.vercel.app/api?type=rect&height=240&color=0:0b1220,28:111827,58:1f2937,78:b45309,100:f59e0b&text=nesfe&fontColor=ffffff&fontSize=62&fontAlignY=34&desc=electronics%20lab%20dashboard&descAlignY=56&descSize=18"
+    src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f172a,28:1e293b,58:dc2626,82:f59e0b,100:facc15&text=nesfe&fontColor=ffffff&fontSize=64&animation=fadeIn&fontAlignY=36&desc=electronics%20%7C%20drones%20%7C%20uwb%20%7C%20vibecoder%20by%20necessity&descAlignY=58"
     alt="nesfe header"
   />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/electronics-0f172a?style=for-the-badge&labelColor=111827&color=f97316" alt="electronics" />
-  <img src="https://img.shields.io/badge/drones-0f172a?style=for-the-badge&labelColor=111827&color=eab308" alt="drones" />
-  <img src="https://img.shields.io/badge/uwb-0f172a?style=for-the-badge&labelColor=111827&color=38bdf8" alt="uwb" />
-  <img src="https://img.shields.io/badge/vibecoder%20by%20necessity-0f172a?style=for-the-badge&labelColor=111827&color=22c55e" alt="vibecoder by necessity" />
+  <img src="https://img.shields.io/badge/electronics-111827?style=for-the-badge&labelColor=111827&color=dc2626" alt="electronics" />
+  <img src="https://img.shields.io/badge/drones-111827?style=for-the-badge&labelColor=111827&color=f59e0b" alt="drones" />
+  <img src="https://img.shields.io/badge/uwb-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="uwb" />
+  <img src="https://img.shields.io/badge/building%20stuff-111827?style=for-the-badge&labelColor=111827&color=2563eb" alt="building stuff" />
 </p>
 
 <table>
