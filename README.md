@@ -1,23 +1,30 @@
 <h1 align="center">nesfe</h1>
 
 <p align="center">
-  electronics • drones • uwb • random things that somehow start working
+  <code>electronics engineer // drones // uwb // vibecoder by necessity</code>
 </p>
 
 ```text
-> whoami
+┌──(nesfe@github)-[~/lab]
+└─$ whoami
 electronic engineer
-vibecoder by necessity
 
-> current_focus
-- drones
-- uwb
-- small experiments around hardware and software
+┌──(nesfe@github)-[~/lab]
+└─$ ls focus/
+drones  uwb  hardware-software experiments
 
-> status
-usually building, testing, breaking, fixing
+┌──(nesfe@github)-[~/lab]
+└─$ cat status.txt
+usually testing something
+usually breaking something
+usually making it work anyway
 ```
 
 <p align="center">
-  <a href="https://github.com/nesfe?tab=repositories">repos</a>
+  low noise, real hardware, questionable firmware decisions
+</p>
+
+<p align="center">
+  <a href="https://github.com/nesfe?tab=repositories">repos</a> ·
+  <a href="https://github.com/nesfe?tab=stars">stars</a>
 </p>
