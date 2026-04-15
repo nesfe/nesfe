@@ -8,7 +8,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/research-111827?style=for-the-badge&labelColor=111827&color=dc2626" alt="research" />
   <img src="https://img.shields.io/badge/electronics-111827?style=for-the-badge&labelColor=111827&color=f59e0b" alt="electronics" />
-  <img src="https://img.shields.io/badge/systems-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="systems" />
+  <img src="https://img.shields.io/badge/networking-111827?style=for-the-badge&labelColor=111827&color=facc15" alt="networking" />
   <img src="https://img.shields.io/badge/ai--assisted%20development-111827?style=for-the-badge&labelColor=111827&color=334155" alt="AI-assisted development" />
 </p>
 
@@ -36,12 +36,10 @@
 </p>
 
 <p align="center">
-  <b>Selected Projects</b>
+  <b>Open Projects</b>
 </p>
 
 <p align="center">
-  <a href="https://github.com/nesfe/YPH-App"><b>YPH-App</b></a> · bilingual hymnbook PWA with chords, offline mode, and admin panel
-  <br />
   <a href="https://github.com/nesfe/ClearXRay"><b>ClearXRay</b></a> · documented and reproducible Xray REALITY setup
   <br />
   <a href="https://github.com/nesfe/VPN2double"><b>VPN2double</b></a> · chained RU → NL VPN architecture with practical deployment scripts
