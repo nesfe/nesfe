@@ -60,34 +60,14 @@
   </tr>
 </table>
 
-## Selected Builds
+## Selected Projects
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nesfe/YPH-App">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nesfe&repo=YPH-App&theme=transparent&bg_color=00000000&title_color=f59e0b&text_color=cbd5e1&icon_color=dc2626&border_color=334155" alt="YPH-App" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nesfe/ClearXRay">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nesfe&repo=ClearXRay&theme=transparent&bg_color=00000000&title_color=f59e0b&text_color=cbd5e1&icon_color=dc2626&border_color=334155" alt="ClearXRay" />
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nesfe/VPN2double">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nesfe&repo=VPN2double&theme=transparent&bg_color=00000000&title_color=f59e0b&text_color=cbd5e1&icon_color=dc2626&border_color=334155" alt="VPN2double" />
-      </a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/nesfe/V2RayTun">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=nesfe&repo=V2RayTun&theme=transparent&bg_color=00000000&title_color=f59e0b&text_color=cbd5e1&icon_color=dc2626&border_color=334155" alt="V2RayTun" />
-      </a>
-    </td>
-  </tr>
-</table>
+| Project | Area | Note |
+| --- | --- | --- |
+| [`YPH-App`](https://github.com/nesfe/YPH-App) | PWA / product | bilingual hymnbook with chords, offline mode, and admin panel |
+| [`ClearXRay`](https://github.com/nesfe/ClearXRay) | networking | documented and reproducible Xray REALITY setup |
+| [`VPN2double`](https://github.com/nesfe/VPN2double) | infrastructure | chained RU → NL VPN architecture with practical deployment scripts |
+| [`V2RayTun`](https://github.com/nesfe/V2RayTun) | tooling | one-command Xray Reality bootstrap for a real client workflow |
 
 ## Project Flavor
 
