@@ -23,19 +23,6 @@
 </p>
 
 <p align="center">
-  <code>UWB and navigation research</code> ·
-  <code>electronics and hardware tooling</code> ·
-  <code>reproducible infrastructure</code> ·
-  <code>AI-assisted software</code>
-</p>
-
-<p align="center">
-  <code>measure first</code> ·
-  <code>debug the real failure mode</code> ·
-  <code>ship what actually works</code>
-</p>
-
-<p align="center">
   <b>Open Projects</b>
 </p>
 
