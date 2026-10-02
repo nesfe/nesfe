@@ -18,21 +18,11 @@
   Not a classical programmer, I use AI as my main implementation tool to turn technical constraints, architecture, and diagnostics into working systems.
 </p>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/LAB%20STATUS-online-111827?style=flat-square&labelColor=111827&color=22c55e" alt="lab status" />
-</p>
 
 <p align="center">
   <b>Open Projects</b>
 </p>
 
-<p align="center">
-  <a href="https://github.com/nesfe/ClearXRay"><b>ClearXRay</b></a> · documented and reproducible Xray REALITY setup
-  <br />
-  <a href="https://github.com/nesfe/VPN2double"><b>VPN2double</b></a> · chained RU → NL VPN architecture with practical deployment scripts
-  <br />
-  <a href="https://github.com/nesfe/V2RayTun"><b>V2RayTun</b></a> · one-command Xray Reality bootstrap for a real client workflow
-</p>
 
 <p align="center">
   <a href="https://github.com/nesfe?tab=repositories">repositories</a> ·
